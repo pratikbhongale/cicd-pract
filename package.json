@@ -1,0 +1,23 @@
+{
+  "name": "cicd-pract",
+  "version": "1.0.0",
+  "description": "Practice",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pratikbhongale/cicd-pract.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pratikbhongale/cicd-pract/issues"
+  },
+  "homepage": "https://github.com/pratikbhongale/cicd-pract#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
